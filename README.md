@@ -15,7 +15,7 @@ npm install
 ### Web IDEs
 
 * Ethereum/Sepolia/Polygon: **Remix** https://remix.ethereum.org/
-* zkSync Era: **Atlaszk** https://app.atlaszk.com/ide
+* zkSync Era: **Atlaszk** https://zksync.atlaszk.com/ide
 
 ### Deprecated
 
